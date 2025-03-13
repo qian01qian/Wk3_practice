@@ -1,5 +1,5 @@
 import HomepageImage from "../res/homepage.jpg"; // 首頁背景圖片
-import '../homepage.css'
+import '../banner.css'
 import '../index.css'
 function Banner() {
     return (

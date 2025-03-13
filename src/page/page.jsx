@@ -8,9 +8,11 @@ function Page() {
     return (
         <>
             <Header/>
-            <Banner />
-            <Category />
-            <Map />
+            <main>
+                <Banner />
+                <Category />
+                <Map />
+            </main>
             <Footer />
         </>
     )
